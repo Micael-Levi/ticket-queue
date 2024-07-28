@@ -20,3 +20,6 @@ Sistema de venda de ingressos para um show de rock extremamente popular. O siste
    - Sistema confirma a compra, desconta o ingresso do banco de dados e gera a confirmação de pagamento.
 6. Notificar Usuário
    - Usuário é notificado sobre o status da compra.
+
+## Diagrama de sequência
+<img src="diagram de sequência.png"/>
